@@ -1,28 +1,33 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=300&section=header&text=Khair%20Eddine%20Benomar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20|%20Software%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=300&section=header&text=Khair%20Eddine%20Benomar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20Chatbot%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+.NET+Developer;💻+Angular+%26+React+Specialist;🇲🇦+Moroccan+Software+Engineer;⚡+GoLang+Enthusiast;💼+Freelance+Developer;🌟+Ready+to+Build+Amazing+Projects!;📚+Always+Learning+New+Technologies!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;💻+Angular+%26+React+Specialist;🇲🇦+Moroccan+Software+Engineer;⚡+GoLang+Enthusiast;🎯+Chatbot+%26+Desktop+App+Developer;🧠+Transformers+%26+Deep+Learning;💼+Freelance+AI+Developer;🌟+Ready+to+Build+Amazing+AI+Solutions!;📚+Always+Learning+New+AI+Technologies!)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953cc.gif" width="900">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953cc.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+</div>
 
 </div>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/🤖-AI%20Engineer-brightgreen?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🌟-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/💼-Freelancer-blue?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🇲🇦-Morocco-red?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🐧-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/🌍-Remote%20Ready-green?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourusername)](https://linkedin.com/in/yourusername)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:khaireddine.benomar@gmail.com)](mailto:khaireddine.benomar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Safari&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
@@ -32,28 +37,30 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
 
-> **"Transforming innovative ideas into elegant, scalable code solutions"** 
+> **"Transforming innovative ideas into intelligent AI solutions and elegant code"** 
 
-I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks** (Ingénieur d'État en Informatique et Réseaux). I specialize in building robust, scalable applications using modern technologies and I'm always excited to take on new challenges!
+I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks**. I specialize in building **intelligent chatbots**, **machine learning models**, **desktop applications**, and **scalable web solutions** using cutting-edge AI technologies and modern development frameworks!
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center" alt="AI Robot" width="450" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </td>
 <td align="center" width="50%">
 
 ### 🎯 **Current Focus**
-- 🔭 Working on **innovative .NET projects** and **modern web applications**
-- 👯 Looking to collaborate on **open source .NET projects** and **Angular applications**
-- 🤝 Available for **freelance projects** and **consulting**
-- 🌱 Expanding knowledge in **cloud technologies** and **microservices architecture**
-- 💬 Ask me about **.NET, Angular, React, TypeScript, GoLang** and **full-stack development**
+- 🤖 Building **intelligent chatbots** and **conversational AI systems**
+- 🧠 Working with **machine learning**, **transformers**, and **deep learning**
+- 🔭 Developing **innovative .NET projects** and **desktop applications**
+- 👯 Looking to collaborate on **AI/ML projects** and **open source initiatives**
+- 🤝 Available for **AI consulting**, **freelance projects**, and **chatbot development**
+- 🌱 Expanding knowledge in **advanced AI architectures** and **neural networks**
+- 💬 Ask me about **.NET, AI/ML, Chatbots, Angular, React, TypeScript, GoLang**
 - 📫 Reach me at: **khaireddine.benomar@gmail.com**
-- 👨‍💻 All projects showcase **full-stack development** expertise
-- 📍 Based in **Morocco** - Open to **remote opportunities worldwide**
-- 🎯 **Mission**: Contributing to impactful projects that make a difference
-- ⚡ **Fun fact**: I love turning complex problems into elegant code solutions!
+- 👨‍💻 All projects showcase **AI-powered solutions** and **full-stack expertise**
+- 📍 Based in **Morocco** on **Arch Linux** - Open to **remote opportunities worldwide**
+- 🎯 **Mission**: Creating intelligent solutions that revolutionize user experiences
+- ⚡ **Fun fact**: I love building AI that can understand and help humans!
 
 </td>
 </tr>
@@ -77,21 +84,21 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-<br/><strong>💼 Experience</strong>
-<br/>Full Stack Developer
-<br/>Freelance Professional
+<br/><strong>🤖 Specialization</strong>
+<br/>AI Engineer & Chatbot Developer
+<br/>Machine Learning Expert
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 <br/><strong>🌍 Location</strong>
-<br/>Morocco 🇲🇦
+<br/>Morocco 🇲🇦 - Arch Linux 🐧
 <br/>Remote Friendly
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100"/>
 <br/><strong>💻 Focus</strong>
-<br/>.NET & Angular
-<br/>Modern Web Technologies
+<br/>AI/ML & .NET Development
+<br/>Chatbots & Desktop Apps
 </td>
 </tr>
 </table>
@@ -107,33 +114,40 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<td align="center" width="160">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt=".NET"/>
+<img src="https://skillicons.dev/icons?i=dotnet" width="55px" alt=".NET"/>
 <br/><strong>.NET Ecosystem</strong>
 <br/><em>Core, Framework, APIs</em>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<td align="center" width="160">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular"/>
+<img src="https://skillicons.dev/icons?i=angular" width="55px" alt="Angular"/>
 <br/><strong>Angular Framework</strong>
 <br/><em>Modern SPAs</em>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<td align="center" width="160">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="55px" alt="TypeScript"/>
 <br/><strong>TypeScript</strong>
 <br/><em>Type-Safe Development</em>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100"/>
+<td align="center" width="160">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=go" width="65px" alt="Go"/>
+<img src="https://skillicons.dev/icons?i=go" width="55px" alt="Go"/>
 <br/><strong>GoLang</strong>
 <br/><em>High Performance</em>
+</td>
+<td align="center" width="160">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55px" alt="TensorFlow"/>
+<br/><strong>AI & ML</strong>
+<br/><em>Neural Networks</em>
 </td>
 </tr>
 </table>
@@ -144,12 +158,26 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 
 ### 💻 Programming Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,typescript,javascript,go,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=cs,typescript,javascript,go,python,html,css,sass" />
 <br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Chatbots-00D4AA?style=for-the-badge&logo=chatbot&logoColor=white" />
 </div>
 
 ### 🎯 Frontend Development
@@ -199,11 +227,15 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 ### 🛠️ Tools & Development Environment
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,git,github,gitlab" />
+<img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" width="48" height="48"/>
+<img src="https://www.sonarqube.org/logos/index/sonarqube-logo.svg" width="48" height="48"/>
 <br/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </div>
 
 <div align="center">
@@ -229,11 +261,8 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=F85D7F&text_color=73BCF0&border_radius=8" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF0&area=true&border_radius=8" width="100%" />
+<td width="100%" colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Khair%20Eddine's%20AI%20%26%20Development%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF0&area_color=F85D7F&area=true&hide_border=true&border_radius=8" width="100%" />
 </td>
 </tr>
 </table>
@@ -272,25 +301,29 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
 
-**🔷 Backend Development**
+**🔷 AI & Backend Development**
 - .NET Core/Framework
 - ASP.NET Web APIs
 - Entity Framework
 - Microservices Architecture
 - GoLang Development
 - RESTful Services
+- Machine Learning Models
+- AI Model Integration
 
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 
-**🔶 Frontend Development**
+**🤖 AI & Frontend Development**
+- Intelligent Chatbots
+- Conversational AI Systems
 - Angular (Advanced)
 - React & Next.js
 - TypeScript
-- Modern CSS Frameworks
-- Responsive Design
+- Desktop Applications
 - Progressive Web Apps
+- Neural Network Interfaces
 
 </td>
 </tr>
@@ -309,37 +342,43 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 
-**🎯 Development Services**
+**🤖 AI & Development Services**
+- ✅ Intelligent Chatbot Development
+- ✅ Machine Learning Solutions
 - ✅ Custom .NET Applications
+- ✅ Desktop Applications
 - ✅ Angular/React SPAs
-- ✅ Full-Stack Solutions
-- ✅ GoLang Microservices
-- ✅ Progressive Web Apps
-- ✅ E-commerce Platforms
+- ✅ AI-Powered Systems
+- ✅ Conversational AI Platforms
+- ✅ Full-Stack AI Solutions
 
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100"/>
 
-**💡 Consulting & Architecture**
+**🧠 AI/ML Consulting & Architecture**
+- ✅ AI Model Development
+- ✅ Neural Network Design
+- ✅ Transformer Implementation
 - ✅ Code Review & Optimization
 - ✅ Architecture Consulting
 - ✅ Technical Mentoring
 - ✅ Performance Optimization
-- ✅ Legacy System Migration
-- ✅ Best Practices Implementation
+- ✅ AI Strategy Consulting
 
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
 
-**🔧 Technical Solutions**
+**🔧 Technical AI Solutions**
+- ✅ Natural Language Processing
+- ✅ Deep Learning Models
 - ✅ Database Design & Optimization
 - ✅ RESTful API Development
 - ✅ DevOps & CI/CD Setup
-- ✅ Cloud Migration Support
+- ✅ Cloud AI Deployment
 - ✅ Security Implementation
-- ✅ Testing & Quality Assurance
+- ✅ AI Testing & Quality Assurance
 
 </td>
 </tr>
@@ -430,9 +469,6 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 ### 🌐 **Let's Connect & Collaborate!**
 
 <p align="center">
-<a href="https://linkedin.com/in/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0077B5&borderRadius=8"/>
-</a>
 <a href="https://twitter.com/yourusername" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&borderRadius=8"/>
 </a>
@@ -442,8 +478,8 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 <a href="mailto:khaireddine.benomar@gmail.com">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&borderRadius=8"/>
 </a>
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Safari&logoColor=white&labelColor=FF5722&borderRadius=8"/>
+<a href="https://t.me/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&borderRadius=8"/>
 </a>
 </p>
 
@@ -451,23 +487,17 @@ I'm a **passionate Full Stack .NET Developer** from **Morocco** 🇲🇦, with a
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-<br/><strong>💼 Professional</strong>
-<br/>LinkedIn Profile
-<br/><em>Connect for opportunities</em>
-</td>
-<td align="center" width="200">
+<td align="center" width="300">
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
 <br/><strong>📧 Email Me</strong>
-<br/>Quick Response
+<br/>Quick Response Guaranteed
 <br/><em>khaireddine.benomar@gmail.com</em>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-<br/><strong>🌐 Portfolio</strong>
-<br/>View My Work
-<br/><em>Showcasing projects & skills</em>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100" />
+<br/><strong>🤖 AI Projects</strong>
+<br/>Chatbots & ML Solutions
+<br/><em>Intelligent systems that understand</em>
 </td>
 </tr>
 </table>
@@ -490,23 +520,23 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
-<br/><strong>Full-Stack Solutions</strong>
-<br/>Complete .NET applications
+<br/><strong>🤖 AI Solutions</strong>
+<br/>Intelligent chatbots & ML models
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
-<br/><strong>Modern Frontend</strong>
-<br/>Angular/React applications
+<br/><strong>💻 Desktop Apps</strong>
+<br/>.NET desktop applications
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
-<br/><strong>Technical Consulting</strong>
-<br/>Architecture & optimization
+<br/><strong>🧠 AI Consulting</strong>
+<br/>Neural networks & transformers
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80" />
-<br/><strong>Freelance Services</strong>
-<br/>Project development
+<br/><strong>⚡ Full-Stack</strong>
+<br/>Complete web solutions
 </td>
 </tr>
 </table>
