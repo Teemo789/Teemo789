@@ -1,10 +1,15 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=300&section=header&text=Khair%20Eddine%20Benomar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20Chatbot%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;💻+Angular+%26+React+Specialist;🇲🇦+Moroccan+Software+Engineer;⚡+GoLang+Enthusiast;🎯+Chatbot+%26+Desktop+App+Developer;🧠+Transformers+%26+Deep+Learning;💼+Freelance+AI+Developer;🌟+Ready+to+Build+Amazing+AI+Solutions!;📚+Always+Learning+New+AI+Technologies!)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953cc.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 </div>
 
 </div>
@@ -28,6 +33,10 @@
 
 ## 🚀 About Me
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+</div>
+
 > **"Transforming innovative ideas into intelligent AI solutions and elegant code"** 
 
 I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks**. I specialize in building **intelligent chatbots**, **machine learning models**, **desktop applications**, and **scalable web solutions** using cutting-edge AI technologies and modern development frameworks!
@@ -35,6 +44,7 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <table align="center">
 <tr>
 <td align="center" width="50%">
+<img align="center" alt="AI Robot" width="450" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </td>
 <td align="center" width="50%">
 
@@ -61,6 +71,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 ## 🏅 Achievements & Highlights
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <table>
 <tr>
@@ -96,6 +108,7 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 🌟 **Core Expertise**
 
@@ -138,6 +151,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 </div>
 
@@ -223,9 +238,44 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8a9126606963.gif" width="900">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=73BCF0&border_radius=8" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=73BCF0&sideNums=73BCF0&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=73BCF0&border_radius=8" width="100%" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Khair%20Eddine's%20AI%20%26%20Development%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF0&area_color=F85D7F&area=true&hide_border=true&border_radius=8" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+</div>
+
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues)
 
@@ -234,11 +284,15 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
+
 </div>
 
 ## 💼 Professional Experience
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 🎯 **Core Specializations**
 
@@ -274,6 +328,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 </div>
 
@@ -367,6 +423,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -406,6 +464,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 ### 🌐 **Let's Connect & Collaborate!**
 
 <p align="center">
@@ -422,6 +482,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&borderRadius=8"/>
 </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 <table align="center">
 <tr>
@@ -454,6 +516,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 ### 🤝 **Ready to Work Together?**
 
 I'm always open to discussing new opportunities, innovative projects, and interesting collaborations. Whether you need:
@@ -485,6 +549,8 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 
 **🚀 Don't hesitate to reach out!** Let's build something amazing together.
 
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="900">
+
 </div>
 
 ---
@@ -492,6 +558,8 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 <div align="center">
 
 ### ⭐ **Star this repo if you found it helpful!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&labelColor=black)](https://github.com/yourusername)
@@ -506,4 +574,10 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 - 🤝 Mentor aspiring developers
 - 🌟 Build impactful solutions
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
