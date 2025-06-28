@@ -1,40 +1,78 @@
 <div align="center">
 
 # 🤖 Khair Eddine Benomar
-## AI Engineer | Full Stack .NET Developer | Chatbot Specialist
+## 🎮 AI Engineer | Full Stack .NET Develope## 🏆 Achievements & Power-Ups
+
+<div align="center">
+
+```
+🎮 ACHIEVEMENT UNLOCKED! 🎮
+``` Chatbot Specialist 🎮
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;🇲🇦+Moroccan+Software+Engineer;🎯+Chatbot+%26+Desktop+App+Developer)
+
+<div align="center">
+  
+```
+      🟡                     🟡 🟡 🟡                     🟡
+         ▲ ▲                                               ▲ ▲
+        ( ͡° ͜ʖ ͡°)             ᗧ•••••••••••••••••••••ᗤ            ( ͡° ͜ʖ ͡°)
+                             AI ENGINEER LEVEL: ███████████
+```
+
+</div>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🤖-AI%20Engineer-brightgreen?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌟-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/💼-Freelancer-blue?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🇲🇦-Morocco-red?style=for-the-badge&labelColor=000000" />
+```
+🎮 PLAYER STATS 🎮
+```
+
+<img src="https://img.shields.io/badge/🎯-AI%20Engineer-brightgreen?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔥-Open%20to%20Work-red?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/�-Freelancer-blue?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🇲🇦-Morocco-green?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🐧-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌍-Remote%20Ready-green?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌍-Remote%20Ready-purple?style=for-the-badge&labelColor=000000" />
+
+```
+🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+```
 
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:khaireddine.benomar@gmail.com)](mailto:khaireddine.benomar@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
-## 🚀 About Me
+## 🎮 About Me
 
-> **"Transforming innovative ideas into intelligent AI solutions and elegant code"** 
+```
+╭─────────────────────────────────────────────────────────────────╮
+│  🟡 ᗧ•••••••••••••••••••••••••••••••••••••••••••••••••••••••ᗤ   │
+│     "Transforming innovative ideas into intelligent AI solutions"  │
+│  🟡 ᗧ•••••••••••••••••••••••••••••••••••••••••••••••••••••••ᗤ   │
+╰─────────────────────────────────────────────────────────────────╯
+```
 
 I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks**. I specialize in building **intelligent chatbots**, **machine learning models**, **desktop applications**, and **scalable web solutions** using cutting-edge AI technologies and modern development frameworks!
+
+<div align="center">
+
+```
+    🎯 CURRENT QUEST LOG 🎯
+```
+
+</div>
 
 <table align="center">
 <tr>
 <td align="center" width="100%">
 
-### 🎯 **Current Focus**
+### � **Current Focus**
 - 🤖 Building **intelligent chatbots** and **conversational AI systems**
 - 🧠 Working with **machine learning**, **transformers**, and **deep learning**
 - 🔭 Developing **innovative .NET projects** and **desktop applications**
@@ -48,13 +86,17 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 - 🎯 **Mission**: Creating intelligent solutions that revolutionize user experiences
 - ⚡ **Fun fact**: I love building AI that can understand and help humans!
 
+```
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+```
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏅 Achievements & Highlights
+## � Achievements & Power-Ups
 
 <div align="center">
 
@@ -133,12 +175,24 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 </tr>
 </table>
 
-### 📊 **Quick Stats**
+### 📊 **Player Stats**
 <div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                        🎮 GAME STATS 🎮                     │
+├─────────────────────────────────────────────────────────────┤
+│  🟡 COMMITS: 9,856    👻 PROJECTS: 51+    ⚡ XP: 5+ Years  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ![Commits](https://img.shields.io/badge/Total%20Commits-9,856-blue?style=for-the-badge&logo=git&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projects%20Completed-51+-green?style=for-the-badge&logo=github&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge&logo=calendar&logoColor=white)
+
+```
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 🟡
+```
 
 </div>
 
@@ -411,35 +465,47 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+```
+🎮 MULTIPLAYER MODE - LET'S TEAM UP! 🎮
+```
 
-### 🌐 **Let's Connect & Collaborate!**
+### 🌐 **Ready to Collaborate?**
 
 <p align="center">
-<a href="https://twitter.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&borderRadius=8"/>
-</a>
 <a href="https://github.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&borderRadius=8"/>
+<img src="https://img.shields.io/badge/-🕹️_GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&borderRadius=8"/>
 </a>
 <a href="mailto:khaireddine.benomar@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&borderRadius=8"/>
-</a>
-<a href="https://t.me/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&borderRadius=8"/>
+<img src="https://img.shields.io/badge/-📧_Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&borderRadius=8"/>
 </a>
 </p>
 
+```
+🟡 ᗧ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••ᗤ 👻
+      "Ready to build something amazing together! Level up your projects!"
+🟡 ᗧ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••ᗤ 👻
+```
+
 <table align="center">
 <tr>
-<td align="center" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
+<td align="center" width="50%">
+```
+📧
+[EMAIL READY]
+━━━━━━━━━━
+    ONLINE!
+```
 <br/><strong>📧 Email Me</strong>
 <br/>Quick Response Guaranteed
 <br/><em>khaireddine.benomar@gmail.com</em>
 </td>
-<td align="center" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100" />
+<td align="center" width="50%">
+```
+🤖
+[AI PROJECT]
+━━━━━━━━━━
+   READY!
+```
 <br/><strong>🤖 AI Projects</strong>
 <br/>Chatbots & ML Solutions
 <br/><em>Intelligent systems that understand</em>
