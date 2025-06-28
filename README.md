@@ -1,13 +1,7 @@
 <div align="center">
 
 # 🤖 Khair Eddine Benomar
-## 🎮 AI Engineer | Full Stack .NET Develope## 🏆 Achievements & Power-Ups
-
-<div align="center">
-
-```
-🎮 ACHIEVEMENT UNLOCKED! 🎮
-``` Chatbot Specialist 🎮
+## 🎮 AI Engineer | Full Stack .NET Developer | Chatbot Specialist 🎮
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;🇲🇦+Moroccan+Software+Engineer;🎯+Chatbot+%26+Desktop+App+Developer)
 
@@ -32,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/🎯-AI%20Engineer-brightgreen?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🔥-Open%20to%20Work-red?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/�-Freelancer-blue?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/👾-Freelancer-blue?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🇲🇦-Morocco-green?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🐧-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/🌍-Remote%20Ready-purple?style=for-the-badge&labelColor=000000" />
@@ -72,7 +66,7 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <tr>
 <td align="center" width="100%">
 
-### � **Current Focus**
+### 🎲 **Current Focus**
 - 🤖 Building **intelligent chatbots** and **conversational AI systems**
 - 🧠 Working with **machine learning**, **transformers**, and **deep learning**
 - 🔭 Developing **innovative .NET projects** and **desktop applications**
@@ -96,38 +90,66 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 ---
 
-## � Achievements & Power-Ups
+## 🏆 Achievements & Power-Ups
 
 <div align="center">
+
+```
+🎮 ACHIEVEMENT UNLOCKED! 🎮
+```
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-<br/><strong>� Education</strong>
+```
+🎓
+[EDUCATION]
+━━━━━━━━━━
+  UNLOCKED!
+```
+<br/><strong>🎓 Education</strong>
 <br/>State Engineer
 <br/>Computer Science & Networks
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+```
+🤖
+[AI EXPERT]
+━━━━━━━━━━
+  UNLOCKED!
+```
 <br/><strong>🤖 Specialization</strong>
 <br/>AI Engineer & Chatbot Developer
 <br/>Machine Learning Expert
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+```
+🌍
+[GLOBAL]
+━━━━━━━━━━
+  UNLOCKED!
+```
 <br/><strong>🌍 Location</strong>
 <br/>Morocco 🇲🇦 - Arch Linux 🐧
 <br/>Remote Friendly
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100"/>
+```
+💻
+[DEVELOPER]
+━━━━━━━━━━
+  UNLOCKED!
+```
 <br/><strong>💻 Focus</strong>
 <br/>AI/ML & .NET Development
 <br/>Chatbots & Desktop Apps
 </td>
 </tr>
 </table>
+
+```
+🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+```
 
 </div>
 
@@ -138,35 +160,60 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <table>
 <tr>
 <td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
+```
+⚡
+[.NET]
+━━━━━━━━━━
+   MASTER!
+```
 <br/>
 <img src="https://skillicons.dev/icons?i=dotnet" width="55px" alt=".NET"/>
 <br/><strong>.NET Ecosystem</strong>
 <br/><em>Core, Framework, APIs</em>
 </td>
 <td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+```
+🚀
+[ANGULAR]
+━━━━━━━━━━
+   EXPERT!
+```
 <br/>
 <img src="https://skillicons.dev/icons?i=angular" width="55px" alt="Angular"/>
 <br/><strong>Angular Framework</strong>
 <br/><em>Modern SPAs</em>
 </td>
 <td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
+```
+💎
+[TYPESCRIPT]
+━━━━━━━━━━
+    PRO!
+```
 <br/>
 <img src="https://skillicons.dev/icons?i=typescript" width="55px" alt="TypeScript"/>
 <br/><strong>TypeScript</strong>
 <br/><em>Type-Safe Development</em>
 </td>
 <td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="60"/>
+```
+⚡
+[GOLANG]
+━━━━━━━━━━
+   SPEED!
+```
 <br/>
 <img src="https://skillicons.dev/icons?i=go" width="55px" alt="Go"/>
 <br/><strong>GoLang</strong>
 <br/><em>High Performance</em>
 </td>
 <td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60"/>
+```
+🤖
+[AI/ML]
+━━━━━━━━━━
+   NINJA!
+```
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55px" alt="TensorFlow"/>
 <br/><strong>AI & ML</strong>
@@ -282,6 +329,10 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
+```
+🎮 PERFORMANCE DASHBOARD 🎮
+```
+
 <table>
 <tr>
 <td width="50%">
@@ -299,18 +350,35 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
+```
+🏆 TROPHY COLLECTION 🏆
+```
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues)
 
 </div>
 
 ## 💼 Professional Experience
 
-### 🎯 **Core Specializations**
+<div align="center">
+
+```
+🎯 SKILL TREE 🎯
+```
+
+</div>
+
+### 🚀 **Core Specializations**
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
+```
+⚡
+[BACKEND]
+━━━━━━━━━━
+   MASTER!
+```
 
 **🔷 AI & Backend Development**
 - .NET Core/Framework
@@ -324,7 +392,12 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 </td>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+```
+🤖
+[FRONTEND]
+━━━━━━━━━━
+   EXPERT!
+```
 
 **🤖 AI & Frontend Development**
 - Intelligent Chatbots
@@ -345,7 +418,12 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
+```
+🎮
+[AI DEV]
+━━━━━━━━━━
+   READY!
+```
 
 **🤖 AI & Development Services**
 - ✅ Intelligent Chatbot Development
@@ -359,7 +437,12 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="60"/>
+```
+🧠
+[CONSULTING]
+━━━━━━━━━━
+  ACTIVE!
+```
 
 **🧠 AI/ML Consulting & Architecture**
 - ✅ AI Model Development
@@ -373,7 +456,12 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60"/>
+```
+🔧
+[SOLUTIONS]
+━━━━━━━━━━
+ PREMIUM!
+```
 
 **🔧 Technical AI Solutions**
 - ✅ Natural Language Processing
@@ -389,68 +477,61 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 </tr>
 </table>
 
-### 🎓 **Professional Background**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-<br/><strong>🏛️ Education</strong>
-<br/>State Engineer in Computer Science and Networks
-<br/><em>Prestigious engineering degree demonstrating deep technical expertise</em>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
-<br/><strong>💼 Current Focus</strong>
-<br/>Full-Stack Development & Freelance Consulting
-<br/><em>Building scalable, modern applications</em>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-<br/><strong>🌍 Availability</strong>
-<br/>Open for remote projects worldwide
-<br/><em>Ready to deliver exceptional results</em>
-</td>
-</tr>
-</table>
-
-**🎯 Mission:** Delivering high-quality, scalable solutions that exceed client expectations
-
-</div>
-
 ---
 
 ## 🚀 **What I Bring to Your Project**
 
 <div align="center">
 
+```
+🎮 PARTY STATS - READY TO JOIN YOUR TEAM! 🎮
+```
+
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+```
+🔥
+[QUALITY]
+━━━━━━━━━━
+   MAX!
+```
 <br/><strong>🔥 Technical Excellence</strong>
 <br/>Clean, maintainable code
 <br/>Best practices
 <br/>Modern architecture
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+```
+⚡
+[SPEED]
+━━━━━━━━━━
+   MAX!
+```
 <br/><strong>⚡ Fast Delivery</strong>
 <br/>Agile methodology
 <br/>Efficient workflows
 <br/>Quick iterations
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+```
+🤝
+[TEAMWORK]
+━━━━━━━━━━
+   MAX!
+```
 <br/><strong>🤝 Collaboration</strong>
 <br/>Clear communication
 <br/>Team integration
 <br/>Knowledge sharing
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80" />
+```
+📈
+[RESULTS]
+━━━━━━━━━━
+   MAX!
+```
 <br/><strong>📈 Results Driven</strong>
 <br/>Measurable outcomes
 <br/>Performance focus
@@ -521,7 +602,9 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+```
+🎯 CO-OP MODE ACTIVATED! 🎯
+```
 
 ### 🤝 **Ready to Work Together?**
 
@@ -530,22 +613,42 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+```
+🤖
+[AI SOLUTIONS]
+━━━━━━━━━━
+  AVAILABLE!
+```
 <br/><strong>🤖 AI Solutions</strong>
 <br/>Intelligent chatbots & ML models
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+```
+💻
+[DESKTOP APPS]
+━━━━━━━━━━
+  AVAILABLE!
+```
 <br/><strong>💻 Desktop Apps</strong>
 <br/>.NET desktop applications
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+```
+🧠
+[AI CONSULTING]
+━━━━━━━━━━
+  AVAILABLE!
+```
 <br/><strong>🧠 AI Consulting</strong>
 <br/>Neural networks & transformers
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80" />
+```
+⚡
+[FULL-STACK]
+━━━━━━━━━━
+  AVAILABLE!
+```
 <br/><strong>⚡ Full-Stack</strong>
 <br/>Complete web solutions
 </td>
@@ -554,6 +657,10 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 
 **🚀 Don't hesitate to reach out!** Let's build something amazing together.
 
+```
+● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 🟡
+```
+
 </div>
 
 ---
@@ -561,6 +668,10 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 <div align="center">
 
 ### ⭐ **Star this repo if you found it helpful!**
+
+```
+🎮 THANKS FOR PLAYING! 🎮
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&labelColor=black)](https://github.com/yourusername)
@@ -574,6 +685,11 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 - 📚 Master cloud-native development
 - 🤝 Mentor aspiring developers
 - 🌟 Build impactful solutions
+
+```
+GAME OVER - THANKS FOR PLAYING! 
+PRESS START TO COLLABORATE 🕹️
+```
 
 </div>
 
