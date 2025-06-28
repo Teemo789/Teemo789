@@ -1,68 +1,66 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=300&section=header&text=Khair%20Eddine%20Benomar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20Chatbot%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
+</div>
 
-# 🟡 Khair Eddine Benomar
-## ⚡ Full Stack .NET Developer | AI Engineer | Chatbot Specialist ⚡
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;💻+Angular+%26+React+Specialist;🇲🇦+Moroccan+Software+Engineer;⚡+GoLang+Enthusiast;🎯+Chatbot+%26+Desktop+App+Developer;🧠+Transformers+%26+Deep+Learning;💼+Freelance+AI+Developer;🌟+Ready+to+Build+Amazing+AI+Solutions!;📚+Always+Learning+New+AI+Technologies!)
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4MGhsMXg0ZHBjdGIzbWpkYTl6b2t5Zzl3emVmaHVic2x1bjJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="400">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🟡+Pac-Man+Developer+Mode+ON+🟡;🚀+Full+Stack+.NET+Expert;🤖+AI+%26+Chatbot+Specialist;🇲🇦+Moroccan+Software+Engineer;💻+Angular+%26+React+Master;⚡+Building+Amazing+Web+Solutions!)
-
-🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953cc.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+</div>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀-Full%20Stack%20.NET-00D4AA?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🤖-AI%20Engineer-4ECDC4?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/�-Chatbot%20Expert-FF6B6B?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🇲🇦-Morocco-45B7D1?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🤖-AI%20Engineer-brightgreen?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌟-Open%20to%20Work-brightgreen?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/💼-Freelancer-blue?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🇲🇦-Morocco-red?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🐧-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🌍-Remote%20Ready-96CEB4?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌍-Remote%20Ready-green?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/-📧_Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:khaireddine.benomar@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:khaireddine.benomar@gmail.com)](mailto:khaireddine.benomar@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
 ## 🚀 About Me
 
 <div align="center">
-
-🟡 **⟨ Pac-Man Mode: Collecting Knowledge & Building Amazing Solutions ⟩** 🟡
-
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
 
-> **"Transforming innovative ideas into powerful .NET solutions and intelligent AI systems"** 
+> **"Transforming innovative ideas into intelligent AI solutions and elegant code"** 
 
-I'm a **passionate Full Stack .NET Developer and AI Engineer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks**. I specialize in building **scalable web applications**, **intelligent chatbots**, **machine learning models**, and **modern desktop solutions** using cutting-edge technologies!
+I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks**. I specialize in building **intelligent chatbots**, **machine learning models**, **desktop applications**, and **scalable web solutions** using cutting-edge AI technologies and modern development frameworks!
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-
-### 🎯 **Primary Expertise**
-- 🚀 **Full Stack .NET Development** - Web APIs, MVC, Blazor
-- 💻 **Modern Frontend** - Angular, React, TypeScript
-- 🏗️ **Enterprise Architecture** - Microservices, Clean Architecture
-- �️ **Database Design** - SQL Server, Entity Framework
-- ☁️ **Cloud Solutions** - Azure, AWS deployment
-- 🤖 **AI Integration** - ML.NET, intelligent systems
-
+<img align="center" alt="AI Robot" width="450" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </td>
 <td align="center" width="50%">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t5NHU4djV1ZHZzcGFha2ZuOWM0M2duamN5aTlqdzlxNDM2MWtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQlUu7wLzZ7iGNhzQJ/giphy.gif" width="300">
-
-### 🤖 **AI Specialization**
-- � **Intelligent Chatbots** - Conversational AI systems
-- 🧠 **Machine Learning** - Transformers, deep learning
-- 🔍 **Natural Language Processing** - Text analysis, sentiment
-- 🎯 **AI Consulting** - Strategy and implementation
+### 🎯 **Current Focus**
+- 🤖 Building **intelligent chatbots** and **conversational AI systems**
+- 🧠 Working with **machine learning**, **transformers**, and **deep learning**
+- 🔭 Developing **innovative .NET projects** and **desktop applications**
+- 👯 Looking to collaborate on **AI/ML projects** and **open source initiatives**
+- 🤝 Available for **AI consulting**, **freelance projects**, and **chatbot development**
+- 🌱 Expanding knowledge in **advanced AI architectures** and **neural networks**
+- 💬 Ask me about **.NET, AI/ML, Chatbots, Angular, React, TypeScript, GoLang**
+- 📫 Reach me at: **khaireddine.benomar@gmail.com**
+- 👨‍💻 All projects showcase **AI-powered solutions** and **full-stack expertise**
+- 📍 Based in **Morocco** on **Arch Linux** - Open to **remote opportunities worldwide**
+- 🎯 **Mission**: Creating intelligent solutions that revolutionize user experiences
+- ⚡ **Fun fact**: I love building AI that can understand and help humans!
 
 </td>
 </tr>
@@ -248,22 +246,45 @@ I'm a **passionate Full Stack .NET Developer and AI Engineer** from **Morocco** 
 
 <div align="center">
 
-🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4AA&icon_color=4ECDC4&text_color=FFFFFF&border_radius=10" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=73BCF0&border_radius=8" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=4ECDC4&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=FFFFFF&border_radius=10" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=73BCF0&sideNums=73BCF0&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=73BCF0&border_radius=8" width="100%" />
 </td>
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&border_radius=10)
+<table>
+<tr>
+<td width="100%" colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Khair%20Eddine's%20AI%20%26%20Development%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF0&area_color=F85D7F&area=true&hide_border=true&border_radius=8" width="100%" />
+</td>
+</tr>
+</table>
 
-🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
+</div>
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues)
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Khair%20Eddine's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF0&area_color=F85D7F&area=true&hide_border=true&border_radius=8" width="100%">
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
 
 </div>
 
@@ -271,81 +292,93 @@ I'm a **passionate Full Stack .NET Developer and AI Engineer** from **Morocco** 
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 ### 🎯 **Core Specializations**
 
 <table>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
 
-**� .NET Web Solutions**
-- ASP.NET Core Web APIs
-- Entity Framework Core
+**🔷 AI & Backend Development**
+- .NET Core/Framework
+- ASP.NET Web APIs
+- Entity Framework
 - Microservices Architecture
-- Clean Architecture Patterns
-- Azure Cloud Deployment
-- SQL Server & PostgreSQL
-- SignalR Real-time Apps
-- Blazor Applications
+- GoLang Development
+- RESTful Services
+- Machine Learning Models
+- AI Model Integration
 
 </td>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 
-**🤖 AI & Chatbot Development**
-- Intelligent Conversational AI
-- Natural Language Processing
-- Machine Learning Integration
-- TensorFlow & PyTorch Models
-- Transformers Implementation
-- Sentiment Analysis Systems
-- Voice Recognition Features
-- Custom AI Solutions
+**🤖 AI & Frontend Development**
+- Intelligent Chatbots
+- Conversational AI Systems
+- Angular (Advanced)
+- React & Next.js
+- TypeScript
+- Desktop Applications
+- Progressive Web Apps
+- Neural Network Interfaces
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
 </div>
 
 ### 🚀 **Services & Expertise**
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 
-**🚀 .NET Web Development**
-- ✅ ASP.NET Core Web APIs
-- ✅ Microservices Architecture  
-- ✅ Entity Framework Core
-- ✅ Clean Architecture
-- ✅ Azure Cloud Deployment
-- ✅ Real-time SignalR Apps
-- ✅ Blazor Applications
-- ✅ Performance Optimization
-
-</td>
-<td align="center" width="33%">
-
-**� AI & Chatbot Services**
+**🤖 AI & Development Services**
 - ✅ Intelligent Chatbot Development
-- ✅ Conversational AI Systems
-- ✅ Natural Language Processing
-- ✅ Machine Learning Models
-- ✅ Sentiment Analysis
-- ✅ AI Integration & Consulting
-- ✅ Custom AI Solutions
-- ✅ Neural Network Design
+- ✅ Machine Learning Solutions
+- ✅ Custom .NET Applications
+- ✅ Desktop Applications
+- ✅ Angular/React SPAs
+- ✅ AI-Powered Systems
+- ✅ Conversational AI Platforms
+- ✅ Full-Stack AI Solutions
 
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100"/>
 
-**💻 Frontend Solutions**
-- ✅ Angular Applications
-- ✅ React & Next.js Projects
-- ✅ TypeScript Development
-- ✅ Progressive Web Apps
-- ✅ Modern UI/UX Design
-- ✅ Responsive Layouts
-- ✅ Component Libraries
+**🧠 AI/ML Consulting & Architecture**
+- ✅ AI Model Development
+- ✅ Neural Network Design
+- ✅ Transformer Implementation
+- ✅ Code Review & Optimization
+- ✅ Architecture Consulting
+- ✅ Technical Mentoring
 - ✅ Performance Optimization
+- ✅ AI Strategy Consulting
+
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
+
+**🔧 Technical AI Solutions**
+- ✅ Natural Language Processing
+- ✅ Deep Learning Models
+- ✅ Database Design & Optimization
+- ✅ RESTful API Development
+- ✅ DevOps & CI/CD Setup
+- ✅ Cloud AI Deployment
+- ✅ Security Implementation
+- ✅ AI Testing & Quality Assurance
 
 </td>
 </tr>
@@ -388,47 +421,65 @@ I'm a **passionate Full Stack .NET Developer and AI Engineer** from **Morocco** 
 
 ## 🚀 **What I Bring to Your Project**
 
-<table align="center">
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
+
+<table>
 <tr>
 <td align="center" width="25%">
-<strong>🔥 Technical Excellence</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+<br/><strong>🔥 Technical Excellence</strong>
 <br/>Clean, maintainable code
-<br/>Best practices & Modern architecture
+<br/>Best practices
+<br/>Modern architecture
 </td>
 <td align="center" width="25%">
-<strong>⚡ Fast Delivery</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+<br/><strong>⚡ Fast Delivery</strong>
 <br/>Agile methodology
-<br/>Efficient workflows & Quick iterations
+<br/>Efficient workflows
+<br/>Quick iterations
 </td>
 <td align="center" width="25%">
-<strong>🤝 Collaboration</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+<br/><strong>🤝 Collaboration</strong>
 <br/>Clear communication
-<br/>Team integration & Knowledge sharing
+<br/>Team integration
+<br/>Knowledge sharing
 </td>
 <td align="center" width="25%">
-<strong>📈 Results Driven</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80" />
+<br/><strong>📈 Results Driven</strong>
 <br/>Measurable outcomes
-<br/>Performance focus & Business value
+<br/>Performance focus
+<br/>Business value
 </td>
 </tr>
 </table>
 
----
+</div>
 
 ## 📫 Connect with Me
 
 <div align="center">
 
-🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 🌐 **Let's Connect & Collaborate!**
 
 <p align="center">
+<a href="https://twitter.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&borderRadius=8"/>
+</a>
 <a href="https://github.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-🔗_GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&borderRadius=8"/>
 </a>
 <a href="mailto:khaireddine.benomar@gmail.com">
-<img src="https://img.shields.io/badge/-📧_Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&borderRadius=8"/>
+</a>
+<a href="https://t.me/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&borderRadius=8"/>
 </a>
 </p>
 
@@ -506,17 +557,27 @@ I'm always open to discussing new opportunities, innovative projects, and intere
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt4MGhsMXg0ZHBjdGIzbWpkYTl6b2t5Zzl3emVmaHVic2x1bjJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" width="200">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t5NHU4djV1ZHZzcGFha2ZuOWM0M2duamN5aTlqdzlxNDM2MWtvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQlUu7wLzZ7iGNhzQJ/giphy.gif" width="200">
+### ⭐ **Star this repo if you found it helpful!**
 
-🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Thanks for visiting my digital arcade!**
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&labelColor=black)](https://github.com/yourusername)
 
-*"Code is poetry, AI is magic, and together we create the future!"* ✨
+**💭 "Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/yourusername)
+---
 
-🟡 ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● 👻
+### 🎯 **2025 Goals**
+- 🚀 Contribute to more open source projects
+- 📚 Master cloud-native development
+- 🤝 Mentor aspiring developers
+- 🌟 Build impactful solutions
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
