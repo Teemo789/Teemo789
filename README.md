@@ -1,15 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=300&section=header&text=Khair%20Eddine%20Benomar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20Chatbot%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;💻+Angular+%26+React+Specialist;🇲🇦+Moroccan+Software+Engineer;⚡+GoLang+Enthusiast;🎯+Chatbot+%26+Desktop+App+Developer;🧠+Transformers+%26+Deep+Learning;💼+Freelance+AI+Developer;🌟+Ready+to+Build+Amazing+AI+Solutions!;📚+Always+Learning+New+AI+Technologies!)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953cc.gif" width="600">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 </div>
 
 </div>
@@ -33,10 +28,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
-</div>
-
 > **"Transforming innovative ideas into intelligent AI solutions and elegant code"** 
 
 I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 🇲🇦, with a strong background as a **State Engineer in Computer Science and Networks**. I specialize in building **intelligent chatbots**, **machine learning models**, **desktop applications**, and **scalable web solutions** using cutting-edge AI technologies and modern development frameworks!
@@ -44,7 +35,6 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img align="center" alt="AI Robot" width="450" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </td>
 <td align="center" width="50%">
 
@@ -71,8 +61,6 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 ## 🏅 Achievements & Highlights
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <table>
 <tr>
@@ -108,52 +96,8 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-### 🌟 **Core Expertise**
-
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=dotnet" width="55px" alt=".NET"/>
-<br/><strong>.NET Ecosystem</strong>
-<br/><em>Core, Framework, APIs</em>
-</td>
-<td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=angular" width="55px" alt="Angular"/>
-<br/><strong>Angular Framework</strong>
-<br/><em>Modern SPAs</em>
-</td>
-<td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=typescript" width="55px" alt="TypeScript"/>
-<br/><strong>TypeScript</strong>
-<br/><em>Type-Safe Development</em>
-</td>
-<td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=go" width="55px" alt="Go"/>
-<br/><strong>GoLang</strong>
-<br/><em>High Performance</em>
-</td>
-<td align="center" width="160">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55px" alt="TensorFlow"/>
-<br/><strong>AI & ML</strong>
-<br/><em>Neural Networks</em>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-
+<!-- Removed big GIF image -->
+<!-- ...existing code... -->
 </div>
 
 ### 💻 Programming Languages
@@ -239,43 +183,11 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8a9126606963.gif" width="900">
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=73BCF0&border_radius=8" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=73BCF0&sideNums=73BCF0&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=73BCF0&border_radius=8" width="100%" />
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Khair%20Eddine's%20AI%20%26%20Development%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=73BCF0&area_color=F85D7F&area=true&hide_border=true&border_radius=8" width="100%" />
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-
 </div>
 
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews,Issues)
 
@@ -284,15 +196,11 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
-
 </div>
 
 ## 💼 Professional Experience
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 🎯 **Core Specializations**
 
@@ -328,8 +236,6 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 
 </div>
 
@@ -423,8 +329,6 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -464,13 +368,109 @@ I'm a **passionate AI Engineer and Full Stack .NET Developer** from **Morocco** 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
 ### 🌐 **Let's Connect & Collaborate!**
 
 <p align="center">
 <a href="https://twitter.com/yourusername" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&borderRadius=8"/>
+</a>
+<a href="https://github.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&borderRadius=8"/>
+</a>
+<a href="mailto:khaireddine.benomar@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836&borderRadius=8"/>
+</a>
+<a href="https://t.me/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&borderRadius=8"/>
+</a>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+<br/><strong>💼 Professional</strong>
+<br/>LinkedIn Profile
+<br/><em>Connect for opportunities</em>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
+<br/><strong>📧 Email Me</strong>
+<br/>Quick Response
+<br/><em>khaireddine.benomar@gmail.com</em>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+<br/><strong>🌐 Portfolio</strong>
+<br/>View My Work
+<br/><em>Showcasing projects & skills</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💬 Let's Collaborate!
+
+<div align="center">
+
+### 🤝 **Ready to Work Together?**
+
+I'm always open to discussing new opportunities, innovative projects, and interesting collaborations. Whether you need:
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+<br/><strong>Full-Stack Solutions</strong>
+<br/>Complete .NET applications
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+<br/><strong>Modern Frontend</strong>
+<br/>Angular/React applications
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+<br/><strong>Technical Consulting</strong>
+<br/>Architecture & optimization
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="80" />
+<br/><strong>Freelance Services</strong>
+<br/>Project development
+</td>
+</tr>
+</table>
+
+**🚀 Don't hesitate to reach out!** Let's build something amazing together.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ **Star this repo if you found it helpful!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&labelColor=black)](https://github.com/yourusername)
+
+**💭 "Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+---
+
+### 🎯 **2025 Goals**
+- 🚀 Contribute to more open source projects
+- 📚 Master cloud-native development
+- 🤝 Mentor aspiring developers
+- 🌟 Build impactful solutions
+
+</div>
+
+---
 </a>
 <a href="https://github.com/yourusername" target="_blank">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717&borderRadius=8"/>
