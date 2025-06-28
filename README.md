@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+.NET+Developer;💻+Angular+%26+React+Specialist;🇲🇦+Moroccan+Software+Engineer;⚡+GoLang+Enthusiast;🎯+Chatbot+%26+Desktop+App+Developer;🧠+Transformers+%26+Deep+Learning;💼+Freelance+AI+Developer;🌟+Ready+to+Build+Amazing+AI+Solutions!;📚+Always+Learning+New+AI+Technologies!)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953cc.gif" width="600">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 </div>
