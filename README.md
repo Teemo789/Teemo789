@@ -186,7 +186,7 @@ const doudou: Engineer = {
         .oossssso-````/ossssss+`          Memory   : full of weights
        -osssssso.      :ssssssso.         Packages : 1847 (pacman)
       :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-        >  I use Arch btw :D
+     /ossssssss/        +ssssooo/-        
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
