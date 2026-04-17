@@ -13,7 +13,7 @@
 <!-- ┌─────────────────────────── I USE ARCH BTW ───────────────────────────┐ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="260" alt="Arch Linux" />
-  <h1>I use Arch btw :D</h1>
+  <h1>I use Arch BTW</h1>
 </div>
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
