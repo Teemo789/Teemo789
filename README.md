@@ -7,10 +7,6 @@
 </div>
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=24&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&multiline=true&width=820&height=180&lines=%F0%9F%91%8B+Salut%2C+moi+c'est+Doudou;%F0%9F%A4%96+AI+Engineer+%26+Ing%C3%A9nieur+d'%C3%89tat+.NET;%F0%9F%9A%80+Je+transforme+des+id%C3%A9es+en+produits+IA;%F0%9F%87%B2%F0%9F%87%A6+Shipping+from+Morocco+with+passion" alt="Presentation de Doudou" />
-</h1>
-
 <div align="center">
   <a href="https://github.com/Teemo789">
     <img src="https://komarev.com/ghpvc/?username=Teemo789&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
