@@ -2,14 +2,6 @@
 <!--  ✦  DOUDOU  ·  AI ENGINEER  ·  .NET STATE ENGINEER  ·  BUILDER  ·  MA  ✦  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=260&section=header&text=Doudou&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20.NET%20State%20Engineer%20%C2%B7%20Builder%20from%20Morocco&descAlignY=58&descSize=18" alt="header" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Salut%2C+c'est+Doudou+%F0%9F%91%8B;AI+Engineer+%7C+Ing%C3%A9nieur+d'%C3%89tat+.NET;Shipping+LLMs%2C+RAG+%26+production+backends" alt="Typing SVG" />
-</h1>
-
 <!-- ┌─────────────────────────── I USE ARCH BTW ───────────────────────────┐ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="260" alt="Arch Linux" />
