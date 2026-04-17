@@ -171,10 +171,6 @@ const doudou: Engineer = {
 
 ## 🐧 The Arch Flex
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="140" alt="Arch Linux" />
-</div>
-
 ```bash
                    -`                     doudou@rog-zephyrus-g14
                   .o+`                    ──────────────────────
