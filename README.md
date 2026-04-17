@@ -10,6 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Salut%2C+c'est+Doudou+%F0%9F%91%8B;AI+Engineer+%7C+Ing%C3%A9nieur+d'%C3%89tat+.NET;Shipping+LLMs%2C+RAG+%26+production+backends" alt="Typing SVG" />
 </h1>
 
+<!-- ┌─────────────────────────── I USE ARCH BTW ───────────────────────────┐ -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Archlinux-logo-standard-version.png" width="280" alt="Arch Linux" />
+  <h1>I use Arch btw :D</h1>
+</div>
+<!-- └──────────────────────────────────────────────────────────────────────┘ -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=%F0%9F%87%B2%F0%9F%87%A6+Based+in+Morocco;Engineering+AI+products+that+ship;From+prototype+to+production+%E2%9A%A1" alt="Subtitle" />
 </p>
@@ -21,12 +28,6 @@
   <img src="https://img.shields.io/github/followers/Teemo789?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Teemo789?label=Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
   <img src="https://img.shields.io/badge/Open%20to-opportunities-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
-</div>
-
-<div align="center">
-
-![Arch Linux](https://img.shields.io/badge/I%20use%20Arch%20btw%20%3AD-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117)
-
 </div>
 
 <br/>
