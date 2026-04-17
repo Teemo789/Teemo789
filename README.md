@@ -1,6 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  ✦  DOUDOU  ·  AI ENGINEER  ·  .NET STATE ENGINEER  ·  BUILDER  ·  MA  ✦  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 
 <!-- ┌─────────────────────────── I USE ARCH BTW ───────────────────────────┐ -->
 <div align="center">
@@ -9,9 +7,9 @@
 </div>
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=%F0%9F%87%B2%F0%9F%87%A6+Based+in+Morocco;Engineering+AI+products+that+ship;From+prototype+to+production+%E2%9A%A1" alt="Subtitle" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=820&height=180&lines=%F0%9F%91%8B+Salut%2C+moi+c'est+Doudou;%F0%9F%A4%96+AI+Engineer+%26+Ing%C3%A9nieur+d'%C3%89tat+.NET;%F0%9F%9A%80+Je+transforme+des+id%C3%A9es+en+produits+IA;%F0%9F%87%B2%F0%9F%87%A6+Shipping+from+Morocco+with+passion" alt="Presentation de Doudou" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/Teemo789">
@@ -151,12 +149,24 @@ const doudou: Engineer = {
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Teemo789&theme=algolia&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+
+![AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-512BD4?style=for-the-badge&labelColor=0d1117)
+![Ingénieur d'État](https://img.shields.io/badge/🎓_Ing%C3%A9nieur_d'%C3%89tat_.NET-00d9ff?style=for-the-badge&labelColor=0d1117)
+![LLM Builder](https://img.shields.io/badge/🧠_LLM_Builder-FF6B6B?style=for-the-badge&labelColor=0d1117)
+![RAG Expert](https://img.shields.io/badge/📚_RAG_Expert-4ECDC4?style=for-the-badge&labelColor=0d1117)
+
+![OCR Specialist](https://img.shields.io/badge/👁️_OCR_%26_CV-FFD93D?style=for-the-badge&labelColor=0d1117)
+![Production Ready](https://img.shields.io/badge/⚡_Production_Ready-95E1D3?style=for-the-badge&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/💚_Open_Source-181717?style=for-the-badge&labelColor=0d1117)
+![Arch User](https://img.shields.io/badge/🏔️_I_use_Arch_btw-1793D1?style=for-the-badge&labelColor=0d1117)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Teemo789&theme=algolia&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+</a>
+
 </div>
 
 <br/>
@@ -167,7 +177,11 @@ const doudou: Engineer = {
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/0T3DSHlBT_cAAAAd/archlinux-linux.gif" width="420" alt="Arch Linux" />
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098f2f829412.gif" width="500" alt="Linux Terminal" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="120" alt="Arch Linux" />
 
 <pre>
                    -`                     doudou@rog-zephyrus-g14
