@@ -1,45 +1,84 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  ✦  DOUDOU  ·  AI ENGINEER  ·  .NET STATE ENGINEER  ·  BUILDER  ·  MA  ✦  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=260&section=header&text=Doudou&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20.NET%20State%20Engineer%20%C2%B7%20Builder%20from%20Morocco&descAlignY=58&descSize=18" alt="header" />
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Salut%2C+c'est+Doudou+%F0%9F%91%8B;AI+Engineer+%7C+Streamer+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Salut%2C+c'est+Doudou+%F0%9F%91%8B;AI+Engineer+%7C+Ing%C3%A9nieur+d'%C3%89tat+.NET;Shipping+LLMs%2C+RAG+%26+production-grade+backends" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Marocain+%F0%9F%87%B2%F0%9F%87%A6+%E2%9C%A8;Passionate+about+AI+%26+Machine+Learning;Building+things+that+matter" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=%F0%9F%87%B2%F0%9F%87%A6+Based+in+Morocco;Engineering+AI+products+that+ship;From+prototype+to+production+%E2%9A%A1" alt="Subtitle" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Teemo789&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Teemo789?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Teemo789?label=Stars&style=for-the-badge&color=00d9ff" alt="Stars" />
+  <a href="https://github.com/Teemo789">
+    <img src="https://komarev.com/ghpvc/?username=Teemo789&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Teemo789?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Teemo789?label=Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/badge/Open%20to-opportunities-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
+</div>
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/teemo789.svg?style=for-the-badge)](https://wakatime.com/@teemo789)
+
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 🧠 About Me
 
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/W9tBvzTXkQopi/giphy.gif" />
+
 ```typescript
-const doudou = {
-  role: "AI Engineer",
+const doudou: Engineer = {
+  role: "AI Engineer & .NET State Engineer",
   location: "Morocco 🇲🇦",
-  currentFocus: ["LLMs", "OCR", "Computer Vision", "RAG"],
-  codingOn: "ROG Zephyrus G14",
-  streamingOn: ["Kick", "YouTube"],
-  askMeAbout: ["AI/ML", "Python", "TypeScript", "Java", "Gaming"],
-  funFact: "Definitely not C# 😎"
+  education: "Ingénieur d'État · .NET",
+
+  currentFocus: [
+    "LLM fine-tuning & orchestration",
+    "RAG pipelines at scale",
+    "OCR & Computer Vision",
+    "Production-grade .NET backends"
+  ],
+
+  stack: {
+    ai:       ["LangChain", "LangGraph", "PyTorch", "HuggingFace"],
+    backend:  ["ASP.NET Core", "FastAPI", "Node.js"],
+    frontend: ["Next.js", "React", "TypeScript"],
+    data:     ["PostgreSQL", "MongoDB", "Redis", "Vector DBs"]
+  },
+
+  mindset: "Ship clean code, measure, iterate.",
+  funFact: "Multilingual in code & culture 🌍"
 };
 ```
 
+<br clear="right"/>
+
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Tech Stack
 
 <div align="center">
 
-### 🐍 Languages
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -48,82 +87,119 @@ const doudou = {
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛠️ Frameworks & Tools
+### 🏗️ Backend & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 💻 Environment
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🛠️ Environment
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teemo789&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemo789&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teemo789&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teemo789&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=10" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teemo789&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teemo789&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="streak" />
 </div>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Teemo789&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Teemo789&theme=tokyonight" alt="profile details" />
 </div>
 
-<br/>
-
-## 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teemo789&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Teemo789&theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Teemo789&theme=tokyonight" alt="most commit language" />
 </div>
 
-<br/>
-
-## 🎮 When I'm Not Coding
-
 <div align="center">
-
-```javascript
-const hobbies = {
-  streaming: "🎥 Live on Kick & YouTube",
-  gaming: ["Warzone", "Rust", "RAGEMP", "Fortnite"],
-  music: "🎧 Spotify always on",
-  buildingSetup: "🖥️ Perfecting my ROG G14"
-};
-```
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Teemo789&theme=tokyonight&utcOffset=1" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Teemo789&theme=tokyonight" alt="stats card" />
 </div>
 
 <br/>
 
-## 🌐 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Teemo789&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Teemo789/Teemo789/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teemo789&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="activity graph" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 💭 Dev Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/potatowithoutsugar)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@potatowithoutsugar)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/potatowithoutsugar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teemo789)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teemo789)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatim.anas@skillsnsmart.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@potatowithoutsugar)
 
 </div>
 
@@ -132,9 +208,9 @@ const hobbies = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,20,30&height=140&section=footer&text=Let's%20build%20something%20that%20matters&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer" />
 </div>
 
 <div align="center">
-  <sub>💜 Crafted with passion by <b>Doudou</b> · AI Engineer from Morocco 🇲🇦</sub>
+  <sub>⚡ Crafted with precision by <b>Doudou</b> · AI Engineer & .NET State Engineer from Morocco 🇲🇦</sub>
 </div>
