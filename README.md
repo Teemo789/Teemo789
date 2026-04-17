@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Salut%2C+c'est+Doudou+%F0%9F%91%8B;AI+Engineer+%7C+Ing%C3%A9nieur+d'%C3%89tat+.NET;Shipping+LLMs%2C+RAG+%26+production-grade+backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Salut%2C+c'est+Doudou+%F0%9F%91%8B;AI+Engineer+%7C+Ing%C3%A9nieur+d'%C3%89tat+.NET;Shipping+LLMs%2C+RAG+%26+production+backends" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/teemo789.svg?style=for-the-badge)](https://wakatime.com/@teemo789)
+![Arch Linux](https://img.shields.io/badge/I%20use%20Arch%20btw%20%3AD-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -92,6 +92,7 @@ const doudou: Engineer = {
 
 ### 🏗️ Backend & Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
