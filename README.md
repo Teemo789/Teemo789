@@ -172,10 +172,10 @@ const doudou: Engineer = {
 ## 🐧 The Arch Flex
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="140" alt="Arch Linux" />
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="120" alt="Arch Linux" />
-
-<pre>
+```bash
                    -`                     doudou@rog-zephyrus-g14
                   .o+`                    ──────────────────────
                  `ooo/                    OS       : Arch Linux x86_64
@@ -189,15 +189,13 @@ const doudou: Engineer = {
          ./ooosssso++osssssso+`           GPU      : RTX 5080
         .oossssso-````/ossssss+`          Memory   : full of weights
        -osssssso.      :ssssssso.         Packages : 1847 (pacman)
-      :osssssss/        osssso+++.        
+      :osssssss/        osssso+++.
      /ossssssss/        +ssssooo/-        >  I use Arch btw :D
-   `/ossssso+/:-        -:/+osssso+-      
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `/   
-</pre>
-
-</div>
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+```
 
 <br/>
 
