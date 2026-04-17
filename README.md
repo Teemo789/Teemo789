@@ -8,7 +8,7 @@
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&width=820&height=180&lines=%F0%9F%91%8B+Salut%2C+moi+c'est+Doudou;%F0%9F%A4%96+AI+Engineer+%26+Ing%C3%A9nieur+d'%C3%89tat+.NET;%F0%9F%9A%80+Je+transforme+des+id%C3%A9es+en+produits+IA;%F0%9F%87%B2%F0%9F%87%A6+Shipping+from+Morocco+with+passion" alt="Presentation de Doudou" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=24&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&multiline=true&width=820&height=180&lines=%F0%9F%91%8B+Salut%2C+moi+c'est+Doudou;%F0%9F%A4%96+AI+Engineer+%26+Ing%C3%A9nieur+d'%C3%89tat+.NET;%F0%9F%9A%80+Je+transforme+des+id%C3%A9es+en+produits+IA;%F0%9F%87%B2%F0%9F%87%A6+Shipping+from+Morocco+with+passion" alt="Presentation de Doudou" />
 </h1>
 
 <div align="center">
@@ -163,10 +163,6 @@ const doudou: Engineer = {
 ![Open Source](https://img.shields.io/badge/💚_Open_Source-181717?style=for-the-badge&labelColor=0d1117)
 ![Arch User](https://img.shields.io/badge/🏔️_I_use_Arch_btw-1793D1?style=for-the-badge&labelColor=0d1117)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Teemo789&theme=algolia&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 <br/>
@@ -176,10 +172,6 @@ const doudou: Engineer = {
 ## 🐧 The Arch Flex
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098f2f829412.gif" width="500" alt="Linux Terminal" />
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="120" alt="Arch Linux" />
 
