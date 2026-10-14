@@ -8,9 +8,6 @@
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <a href="https://github.com/Teemo789">
-    <img src="https://komarev.com/ghpvc/?username=Teemo789&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-  </a>
   <img src="https://img.shields.io/github/followers/Teemo789?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Teemo789?label=Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
   <img src="https://img.shields.io/badge/Open%20to-opportunities-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
